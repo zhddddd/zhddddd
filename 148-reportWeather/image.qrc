@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>png/1.png</file>
+        <file>png/2.png</file>
+        <file>png/3.png</file>
+        <file>png/4.png</file>
+        <file>png/5.png</file>
+        <file>png/6.png</file>
+        <file>png/7.png</file>
+        <file>png/8.png</file>
+        <file>png/9.png</file>
+        <file>png/10.png</file>
+        <file>png/11.png</file>
+        <file>png/12.png</file>
+        <file>png/13.png</file>
+        <file>png/14.png</file>
+        <file>png/15.png</file>
+        <file>png/16.png</file>
+        <file>png/17.png</file>
+        <file>png/18.png</file>
+        <file>png/16.ico</file>
+        <file>png/baoyu.png</file>
+        <file>png/wu.png</file>
+        <file>png/xiaoyu.png</file>
+        <file>png/zhongdaodayu.png</file>
+    </qresource>
+</RCC>

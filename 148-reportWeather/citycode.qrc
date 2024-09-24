@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>citycode.json</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
